@@ -1,0 +1,17 @@
+
+{
+  "__inputs": [],
+  "panels": [
+    {
+      "type": "graph",
+      "title": "Example Panel",
+      "targets": [
+        {
+          "expr": "up",
+          "legendFormat": "Up Status"
+        }
+      ]
+    }
+  ],
+  "title": "CI/CD App Dashboard"
+}
